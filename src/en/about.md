@@ -13,8 +13,30 @@ permalink: /en/about/
   </div>
 </section>
 
-<section class="about">
-    <h1>What I've Done So Far</h1>
-    <div class="about__text">
-        
+<section id="achievements">
+  <h1 id="achievements__header">What I've Done So Far</h1>
+
+  <div class="achievement">
+    <img src="/img/globodain.png" alt="Globodain" class="achievement__photo">
+    <div class="achievement__text">
+      <h3 class="achievements__title">Globodain</h3>
+      <p>Vestibulum consequat pulvinar nisl in fermentum. Aliquam tellus justo, iaculis ut ullamcorper sit amet, convallis non nibh. Nam porta dolor vitae elit aliquet, sed fermentum risus vestibulum.</p>
     </div>
+  </div>
+
+  <div class="achievement">
+    <img src="/img/algorytmion.png" alt="Algorytmion" class="achievement__photo">
+    <div class="achievement__text">
+      <h3 class="achievements__title">Algorytmion</h3>
+      <p>Vestibulum consequat pulvinar nisl in fermentum. Aliquam tellus justo, iaculis ut ullamcorper sit amet, convallis non nibh. Nam porta dolor vitae elit aliquet, sed fermentum risus vestibulum.</p>
+    </div>
+  </div>
+
+  <div class="achievement">
+    <img src="/img/arenaZabrze.png" alt="Arena Zabrze" class="achievement__photo">
+    <div class="achievement__text">
+      <h3 class="achievements__title">Arena Zabrze</h3>
+      <p>Vestibulum consequat pulvinar nisl in fermentum. Aliquam tellus justo, iaculis ut ullamcorper sit amet, convallis non nibh. Nam porta dolor vitae elit aliquet, sed fermentum risus vestibulum.</p>
+    </div>
+  </div>
+</section>
