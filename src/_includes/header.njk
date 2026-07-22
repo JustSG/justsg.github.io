@@ -1,0 +1,16 @@
+<nav class="navbar">
+  <a href="/{{ lang }}/about/" class="navbar__link">About me</a>
+  <a href="/{{ lang }}/projects/" class="navbar__link">Projects</a>
+  <a href="/{{ lang }}/skills/" class="navbar__link">Skills</a>
+  <a href="/{{ lang }}/contact/" class="navbar__link">Contact</a>
+
+  <div class="navbar__divider"></div>
+
+  <button class="navbar__lang" id="lang-toggle">
+    <span class="navbar__lang{% if lang == 'en' %}-active{% else %}-inactive{% endif %}">EN</span>
+    <span class="navbar__lang-sep">/</span>
+    <span class="navbar__lang{% if lang == 'pl' %}-active{% else %}-inactive{% endif %}">PL</span>
+  </button>
+
+  <script src="/js/navbar.js"></script>
+</nav>

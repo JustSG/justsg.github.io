@@ -1,0 +1,13 @@
+h1 {
+  font-size: var(--fs-xl);
+  margin: 0 0 0.75rem;
+  color: var(--color-text-black);
+  font-family: var(--font-heading);
+}
+
+p {
+  line-height: 1.6;
+  font-family: var(--font-base);
+  color: var(--color-text-black);
+  margin: 0;
+}

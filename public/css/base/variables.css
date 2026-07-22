@@ -1,0 +1,25 @@
+:root {
+  --color-primary: #6A8EAE;
+  --color-secondary: ##B54A4A;
+  --color-text-black: #252528;
+  --color-text-white: #ffffff;
+  --color-bg: #ffffff;
+  --color-bg-alt: #f9fafb;
+
+  --font-heading: "Gemunu Libre", sans-serif;
+  --font-base: "Inter", system-ui, sans-serif;
+  --fs-sm: 0.875rem;
+  --fs-base: 1rem;
+  --fs-lg: 1.25rem;
+  --fs-xl: 3rem;
+
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+  --space-xl: 4rem;
+
+  --radius: 8px;
+  --shadow: 0 2px 8px rgba(0,0,0,0.1);
+  --max-width: 1200px;
+}
