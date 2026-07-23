@@ -20,20 +20,13 @@
 .navbar__link {
   padding: 8px 16px;
   border-radius: 100px;
-  font-size: var(--fs-base);
   font-weight: 500;
-  color: var(--color-text-black);
-  text-decoration: none;
-  white-space: nowrap;
+
   transition: background 0.2s ease;
 }
 
 .navbar__link:hover {
   background: rgba(0, 0, 0, 0.06);
-}
-
-.navbar__link.is-active {
-  background: rgba(0, 0, 0, 0.08);
 }
 
 .navbar__divider {
@@ -77,6 +70,7 @@
 @media (max-width: 767px) {
   .navbar {
     max-width: calc(100% - 1.5rem);
+    overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
 

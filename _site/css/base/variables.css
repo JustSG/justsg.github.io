@@ -22,4 +22,16 @@
   --radius: 8px;
   --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   --max-width: 1200px;
+
+  --lang-java: #b07219;
+  --lang-cs: #813787;
+  --lang-cpp: #00599C;
+  --lang-js: #f1e05a;
+  --lang-android: #3DDB86;
+  --lang-php: #777BB3;
+  --lang-xml: #F37800;
+  --lang-html: #E02E00;
+  --lang-css: #0098D9;
+  --lang-xaml: #03ACF2;
+  --lang-net: #6A2996;
 }

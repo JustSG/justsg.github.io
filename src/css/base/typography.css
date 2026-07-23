@@ -1,13 +1,21 @@
+html {
+  font-family: var(--font-base);
+  font-size: var(--fs-base);
+  color: var(--color-text-black);
+}
+
 h1 {
   font-size: var(--fs-xl);
-  margin: 0 0 0.75rem;
-  color: var(--color-text-black);
   font-family: var(--font-heading);
+  margin: 0 0 0.75rem;
 }
 
 p {
   line-height: 1.6;
-  font-family: var(--font-base);
-  color: var(--color-text-black);
   margin: 0;
+}
+
+a {
+  text-decoration: none;
+  white-space: nowrap;
 }
