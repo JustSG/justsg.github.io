@@ -11,9 +11,8 @@
   align-items: center;
   gap: 4rem;
   max-width: 800px;
-  margin: 0 auto;
   text-align: center;
-  margin: 2rem 0 4rem;
+  margin: 2rem auto 4rem;
 }
 
 #achievements {

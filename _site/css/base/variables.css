@@ -1,6 +1,4 @@
 :root {
-  --color-primary: #6A8EAE;
-  --color-secondary: ##B54A4A;
   --color-text-black: #252528;
   --color-text-white: #ffffff;
   --color-bg: #ffffff;
@@ -18,9 +16,7 @@
   --space-md: 1rem;
   --space-lg: 2rem;
   --space-xl: 4rem;
-
-  --radius: 8px;
-  --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  
   --max-width: 1200px;
 
   --lang-java: #b07219;

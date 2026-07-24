@@ -3,3 +3,9 @@ main {
   margin: 0 auto;
   padding: 10rem var(--space-md) 2rem;
 }
+
+@media (max-width: 768px){
+  main{
+    padding: 6rem var(--space-md) 2rem;
+  }
+}

@@ -58,7 +58,7 @@
   align-items: center;
   gap: 0.4rem;
   padding: 0.4rem 1rem;
-  border: 2px solid var(--color-text-black);
+  border: 1.5px solid var(--color-text-black);
   border-radius: 100px;
   font-size: var(--fs-sm);
   font-weight: 500;
@@ -66,14 +66,14 @@
 }
 
 .project__badge-icon {
-  width: 0.25rem;
-  height: 0.85rem;
+  width: 0.40rem;
+  height: 0.40rem;
   flex-shrink: 0;
 }
 
 @media (max-width: 768px) {
-  h1{
-    margin: -3rem 0 2rem 0;
+  #projects__header{
+    margin: 1rem auto 1rem auto;
   }
 
   .project__content {

@@ -28,7 +28,7 @@ permalink: /en/projects/
 
 <article class="project">
   <div class="project__text">
-    <h3>My first webside</h3>
+    <h3>My first website</h3>
     <p>Vestibulum consequat pulvinar nisl in fermentum. Aliquam tellus justo, iaculis ut ullamcorper sit amet, convallis non nibh. Nam porta dolor vitae elit aliquet, sed fermentum risus vestibulum.</p>
   </div>
   <div class="project__content">
@@ -38,7 +38,7 @@ permalink: /en/projects/
     </div>
     <div class="project_badges">
       <span class="project__badge"><svg class="project__badge-icon" style="fill: var(--lang-php)" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M0.2 10a9.8 9.8 0 0 0 19.6 0 9.8 9.8 0 0 0-19.6 0z"></path></svg>PHP</span>
-      <span class="project__badge"><svg class="project__badge-icon" style="fill: var(--lang-html)" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M0.2 10a9.8 9.8 0 0 0 19.6 0 9.8 9.8 0 0 0-19.6 0z"></path></svg>HTLM</span>
+      <span class="project__badge"><svg class="project__badge-icon" style="fill: var(--lang-html)" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M0.2 10a9.8 9.8 0 0 0 19.6 0 9.8 9.8 0 0 0-19.6 0z"></path></svg>HTML</span>
       <span class="project__badge"><svg class="project__badge-icon" style="fill: var(--lang-css)" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M0.2 10a9.8 9.8 0 0 0 19.6 0 9.8 9.8 0 0 0-19.6 0z"></path></svg>CSS</span>
     </div>
   </div>
