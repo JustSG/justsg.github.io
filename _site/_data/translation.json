@@ -1,0 +1,14 @@
+{
+  "en": {
+    "about": "About Me",
+    "projects": "Projects",
+    "technologies": "Tech Stack",
+    "contact": "Contact"
+  },
+  "pl": {
+    "about": "O mnie",
+    "projects": "Projekty",
+    "technologies": "Technologie",
+    "contact": "Kontakt"
+  }
+}

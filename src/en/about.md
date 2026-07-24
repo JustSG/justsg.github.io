@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: About me
+title: About Me
 lang: en
 permalink: /en/about/
 ---
@@ -36,7 +36,7 @@ permalink: /en/about/
     <img src="/img/arenaZabrze.png" alt="Arena Zabrze" class="achievement__photo">
     <div class="achievement__text">
       <h3 class="achievements__title">Arena Zabrze</h3>
-      <p>As part of the “Śląskie Zawodowcy” project at the Stadium in Zabrze, I expanded my knowledge of the Git version control system and the GitHub platform. I also created this website, which serves as my portfolio and will be regularly developed and updated with new projects and experiences.</p>
+      <p>As part of the “Śląskie Zawodowcy” internship project at the Stadium in Zabrze, I expanded my knowledge of the Git version control system and GitHub. I also created <u><i>this</i></u> website, which serves as my portfolio and will be regularly developed and updated with new projects and experiences.</p>
     </div>
   </div>
 </section>

@@ -4,6 +4,7 @@ title: Tech Stack
 lang: en
 permalink: /en/technologies/
 ---
+
 <section class="skills">
   <h1>What I Work With</h1>
 
