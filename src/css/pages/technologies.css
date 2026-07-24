@@ -46,3 +46,9 @@
   fill: currentColor;
   flex-shrink: 0;
 }
+
+@media (max-width: 768px) {
+  .skills{
+    margin-top: 1rem;
+  } 
+}
