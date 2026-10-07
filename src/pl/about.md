@@ -35,7 +35,7 @@ permalink: /pl/about/
     <img src="/img/arenaZabrze.png" alt="Arena Zabrze" class="achievement__photo">
     <div class="achievement__text">
       <h3 class="achievements__title">Arena Zabrze</h3>
-      <p>W ramach projektu „Śląskie Zawodowcy” na Stadionie Miejskim w Zabrzu pogłębiłem swoją wiedzę z zakresu systemu kontroli wersji Git oraz platformy GitHub. Stworzyłem również <u><i>tę</i></u> stronę, która pełni funkcję mojego portfolio i będzie regularnie rozwijana oraz aktualizowana o kolejne projekty i doświadczenia.</p>
+      <p>W ramach projektu „Śląskie Zawodowcy” na Stadionie Miejskim w Zabrzu pogłębiłem swoją wiedzę z zakresu systemu kontroli wersji Git oraz platformy GitHub. Wspólnie z kolegą, stworzyłem asystenta AI z funkcją czatu, streszczania dokumentów oraz interaktywnej gry tekstowej RPG, opartego o Express.js i Mistral API. Stworzyłem również <u><i>tę</i></u> stronę, która pełni funkcję mojego portfolio i będzie rozwijana oraz aktualizowana o kolejne projekty i doświadczenia.</p>
     </div>
   </div>
 </section>
